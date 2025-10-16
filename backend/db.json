@@ -1,0 +1,408 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Fresh Organic Apples",
+      "description": "Crisp and juicy organic apples, perfect for snacking or baking. Rich in fiber and vitamins.",
+      "price": 120,
+      "originalPrice": 150,
+      "discount": 29,
+      "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=400&h=300&fit=crop",
+      "category": "fruits",
+      "rating": 4.8,
+      "inStock": true,
+      "weight": "1 lb"
+    },
+    {
+      "id": 2,
+      "name": "Fresh Carrots",
+      "description": "Sweet and crunchy carrots, great for salads, soups, or as a healthy snack.",
+      "price": 40,
+      "originalPrice": 60,
+      "discount": 29,
+      "image": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?w=400&h=300&fit=crop",
+      "category": "fruits",
+      "rating": 4.6,
+      "inStock": true,
+      "weight": "2 lbs"
+    },
+    {
+      "id": 3,
+      "name": "Organic Milk",
+      "description": "Fresh, creamy organic milk from grass-fed cows. Perfect for your morning cereal or coffee.",
+      "price": 65,
+      "originalPrice": 75,
+      "discount": 14,
+      "image": "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=400&h=300&fit=crop",
+      "category": "dairy",
+      "rating": 4.7,
+      "inStock": true,
+      "weight": "1 gallon"
+    },
+    {
+      "id": 4,
+      "name": "Fresh Salmon Fillet",
+      "description": "Premium Atlantic salmon fillet, perfect for grilling or baking. Rich in omega-3 fatty acids.",
+      "price": 450,
+      "originalPrice": 550,
+      "discount": 17,
+      "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=400&h=300&fit=crop",
+      "category": "meat",
+      "rating": 4.9,
+      "inStock": true,
+      "weight": "1 lb"
+    },
+    {
+      "id": 5,
+      "name": "Artisan Bread",
+      "description": "Freshly baked artisan bread with a crispy crust and soft interior. Perfect for sandwiches.",
+      "price": 50,
+      "originalPrice": 70,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400&h=300&fit=crop",
+      "category": "bakery",
+      "rating": 4.5,
+      "inStock": true,
+      "weight": "1 loaf"
+    },
+    {
+      "id": 6,
+      "name": "Fresh Strawberries",
+      "description": "Sweet and juicy strawberries, perfect for desserts, smoothies, or eating fresh.",
+      "price": 180,
+      "originalPrice": 220,
+      "discount": 22,
+      "image": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?w=400&h=300&fit=crop",
+      "category": "fruits",
+      "rating": 4.7,
+      "inStock": true,
+      "weight": "1 lb"
+    },
+    {
+      "id": 7,
+      "name": "Greek Yogurt",
+      "description": "Creamy Greek yogurt with live cultures. High in protein and perfect for breakfast or snacks.",
+      "price": 60,
+      "originalPrice": 80,
+      "discount": 18,
+      "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=400&h=300&fit=crop",
+      "category": "dairy",
+      "rating": 4.6,
+      "inStock": true,
+      "weight": "32 oz"
+    },
+    {
+      "id": 8,
+      "name": "Fresh Chicken Breast",
+      "description": "Lean and tender chicken breast, perfect for grilling, baking, or stir-frying.",
+      "price": 280,
+      "originalPrice": 350,
+      "discount": 18,
+      "image": "https://images.unsplash.com/photo-1604503468506-a8da13d82791?w=400&h=300&fit=crop",
+      "category": "meat",
+      "rating": 4.8,
+      "inStock": true,
+      "weight": "2 lbs"
+    },
+    {
+      "id": 9,
+      "name": "Fresh Spinach",
+      "description": "Tender baby spinach leaves, perfect for salads, smoothies, or sautéing.",
+      "price": 40,
+      "originalPrice": 60,
+      "discount": 25,
+      "image": "https://images.unsplash.com/photo-1576045057995-568f588f82fb?w=400&h=300&fit=crop",
+      "category": "fruits",
+      "rating": 4.4,
+      "inStock": true,
+      "weight": "5 oz"
+    },
+    {
+      "id": 10,
+      "name": "Fresh Orange Juice",
+      "description": "100% pure orange juice, freshly squeezed and packed with vitamin C.",
+      "price": 120,
+      "originalPrice": 150,
+      "discount": 17,
+      "image": "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?w=400&h=300&fit=crop",
+      "category": "beverages",
+      "rating": 4.5,
+      "inStock": true,
+      "weight": "64 oz"
+    },
+    {
+      "id": 11,
+      "name": "Whole Wheat Pasta",
+      "description": "High-quality whole wheat pasta, perfect for healthy and delicious meals.",
+      "price": 80,
+      "originalPrice": 100,
+      "discount": 22,
+      "image": "https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?w=400&h=300",
+      "category": "snacks",
+      "rating": 4.3,
+      "inStock": true,
+      "weight": "1 lb"
+    },
+    {
+      "id": 12,
+      "name": "Fresh Bananas",
+      "description": "Sweet and ripe bananas, perfect for breakfast, smoothies, or baking.",
+      "price": 50,
+      "originalPrice": 70,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=400&h=300&fit=crop",
+      "category": "fruits",
+      "rating": 4.6,
+      "inStock": true,
+      "weight": "2 lbs"
+    },
+    {
+      "id": 13,
+      "name": "Fresh Tomatoes",
+      "description": "Juicy and flavorful tomatoes, perfect for salads, sauces, or cooking.",
+      "price": 80,
+      "originalPrice": 100,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1546094096-0df4bcaaa337?w=400&h=300&fit=crop",
+      "category": "fruits",
+      "rating": 4.5,
+      "inStock": true,
+      "weight": "2 lbs"
+    },
+    {
+      "id": 14,
+      "name": "Fresh Broccoli",
+      "description": "Nutritious broccoli florets, perfect for steaming, roasting, or stir-frying.",
+      "price": 50,
+      "originalPrice": 70,
+      "discount": 25,
+      "image": "https://images.unsplash.com/photo-1459411621453-7b03977f4bfc?w=400&h=300&fit=crop",
+      "category": "fruits",
+      "rating": 4.4,
+      "inStock": true,
+      "weight": "1 lb"
+    },
+    {
+      "id": 15,
+      "name": "Fresh Avocados",
+      "description": "Creamy and nutritious avocados, perfect for guacamole, salads, or toast.",
+      "price": 150,
+      "originalPrice": 200,
+      "discount": 29,
+      "image": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?w=400&h=300&fit=crop",
+      "category": "fruits",
+      "rating": 4.7,
+      "inStock": true,
+      "weight": "4 pieces"
+    },
+    {
+      "id": 16,
+      "name": "Fresh Ground Beef",
+      "description": "Premium ground beef, perfect for burgers, meatballs, or pasta sauce.",
+      "price": 320,
+      "originalPrice": 400,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1529692236671-f1f6cf9683ba?w=400&h=300&fit=crop",
+      "category": "meat",
+      "rating": 4.6,
+      "inStock": true,
+      "weight": "1 lb"
+    },
+    {
+      "id": 17,
+      "name": "Fresh Mozzarella",
+      "description": "Fresh mozzarella cheese, perfect for caprese salad, pizza, or pasta.",
+      "price": 180,
+      "originalPrice": 220,
+      "discount": 22,
+      "image": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?w=400&h=300&fit=crop",
+      "category": "dairy",
+      "rating": 4.8,
+      "inStock": true,
+      "weight": "8 oz"
+    },
+    {
+      "id": 18,
+      "name": "Fresh Basil",
+      "description": "Aromatic fresh basil leaves, perfect for Italian dishes, pesto, or garnishing.",
+      "price": 30,
+      "originalPrice": 45,
+      "discount": 29,
+      "image": "https://images.unsplash.com/photo-1618375569909-3c8616cf7733?w=400&h=300&fit=crop",
+      "category": "fruits",
+      "rating": 4.5,
+      "inStock": true,
+      "weight": "1 oz"
+    },
+    {
+      "id": 19,
+      "name": "Fresh Lemons",
+      "description": "Juicy and tangy lemons, perfect for cooking, baking, or making lemonade.",
+      "price": 60,
+      "originalPrice": 80,
+      "discount": 20,
+      "image": "https://images.unsplash.com/photo-1590502593747-42a996133562?w=400&h=300&fit=crop",
+      "category": "fruits",
+      "rating": 4.6,
+      "inStock": true,
+      "weight": "2 lbs"
+    },
+    {
+      "id": 20,
+      "name": "Fresh Garlic",
+      "description": "Fresh garlic bulbs, essential for cooking and adding flavor to your dishes.",
+      "price": 40,
+      "originalPrice": 60,
+      "discount": 33,
+      "image": "https://media.istockphoto.com/id/1340230644/photo/closeup-of-garlic-bulbs-on-wooden-table-with-garlics-blur-background-a-set-of-fresh-garlic-on.jpg?s=612x612&w=0&k=20&c=ViGupj8zL6dDwWKe79V5R2J_NyUqIMLpHduY1e58LGM=",
+      "category": "fruits",
+      "rating": 4.4,
+      "inStock": true,
+      "weight": "3 bulbs"
+    }
+  ],
+  "users": [
+    {
+      "email": "abhinavpurushothaman994@gmail.com",
+      "password": "12345678",
+      "name": "Abhinav",
+      "createdAt": "2025-10-10T06:25:39.457Z",
+      "id": 1
+    }
+  ],
+  "orders": [
+    {
+      "firstName": "fverv",
+      "lastName": "k",
+      "email": "abhinavpurushothaman994@gmail.com",
+      "phone": "8113856108",
+      "address": "svfdbvfdbf",
+      "city": "Kannur",
+      "state": "kerala",
+      "zipCode": "670703",
+      "paymentMethod": "razorpay",
+      "items": [
+        {
+          "id": 1,
+          "name": "Fresh Organic Apples",
+          "description": "Crisp and juicy organic apples, perfect for snacking or baking. Rich in fiber and vitamins.",
+          "price": 120,
+          "originalPrice": 150,
+          "discount": 29,
+          "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=400&h=300&fit=crop",
+          "category": "fruits",
+          "rating": 4.8,
+          "inStock": true,
+          "weight": "1 lb",
+          "quantity": 1
+        }
+      ],
+      "total": 120,
+      "orderId": "ORD1760342413856",
+      "status": "confirmed",
+      "createdAt": "2025-10-13T08:00:13.856Z",
+      "id": 1
+    },
+    {
+      "firstName": "fverv",
+      "lastName": "vervvv",
+      "email": "23219@yenepoya.edu.in",
+      "phone": "8113856108",
+      "address": "  zx sd sd ",
+      "city": "kollam",
+      "state": "kerala",
+      "zipCode": "670703",
+      "paymentMethod": "razorpay",
+      "items": [
+        {
+          "id": 1,
+          "name": "Fresh Organic Apples",
+          "description": "Crisp and juicy organic apples, perfect for snacking or baking. Rich in fiber and vitamins.",
+          "price": 120,
+          "originalPrice": 150,
+          "discount": 29,
+          "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=400&h=300&fit=crop",
+          "category": "fruits",
+          "rating": 4.8,
+          "inStock": true,
+          "weight": "1 lb",
+          "quantity": 1
+        }
+      ],
+      "total": 120,
+      "orderId": "ORD1760342456907",
+      "status": "confirmed",
+      "createdAt": "2025-10-13T08:00:56.907Z",
+      "id": 2
+    },
+    {
+      "firstName": "fverv",
+      "lastName": "cac",
+      "email": "abhinavpurushothaman994@gmail.com",
+      "phone": "8113856108",
+      "address": "adfadf",
+      "city": "Kannur",
+      "state": "kerala",
+      "zipCode": "670703",
+      "paymentMethod": "razorpay",
+      "items": [
+        {
+          "id": 1,
+          "name": "Fresh Organic Apples",
+          "description": "Crisp and juicy organic apples, perfect for snacking or baking. Rich in fiber and vitamins.",
+          "price": 120,
+          "originalPrice": 150,
+          "discount": 29,
+          "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=400&h=300&fit=crop",
+          "category": "fruits",
+          "rating": 4.8,
+          "inStock": true,
+          "weight": "1 lb",
+          "quantity": 1
+        }
+      ],
+      "total": 120,
+      "orderId": "ORD1760351508139",
+      "status": "confirmed",
+      "createdAt": "2025-10-13T10:31:48.146Z",
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": "fruits",
+      "name": "Fruits & Vegetables",
+      "description": "Fresh fruits and vegetables"
+    },
+    {
+      "id": "dairy",
+      "name": "Dairy Products",
+      "description": "Milk, cheese, yogurt and other dairy items"
+    },
+    {
+      "id": "meat",
+      "name": "Meat & Seafood",
+      "description": "Fresh meat, poultry, and seafood"
+    },
+    {
+      "id": "bakery",
+      "name": "Bakery",
+      "description": "Fresh bread, pastries, and baked goods"
+    },
+    {
+      "id": "beverages",
+      "name": "Beverages",
+      "description": "Juices, drinks, and other beverages"
+    },
+    {
+      "id": "snacks",
+      "name": "Snacks",
+      "description": "Chips, crackers, and other snack items"
+    },
+    {
+      "id": "household",
+      "name": "Household",
+      "description": "Cleaning supplies and household items"
+    }
+  ]
+}

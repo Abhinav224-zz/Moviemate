@@ -1,0 +1,14 @@
+{
+  "name": "freshbasket-backend",
+  "version": "1.0.0",
+  "description": "JSON Server backend for FreshBasket ecommerce",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "json-server --watch db.json --port 5000 --middlewares cors.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.3",
+    "cors": "^2.8.5"
+  }
+}

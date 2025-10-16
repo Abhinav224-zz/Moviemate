@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  background-color: #4CAF50 !important;
+  color: white;
+}
+
+.product-card {
+  transition: transform 0.2s;
+  border: none;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.product-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.btn-primary {
+  background-color: #4CAF50 !important;
+  border-color: #4CAF50 !important;
+}
+
+.footer {
+  background-color: #333;
+  color: white;
+  padding: 20px 0;
+  margin-top: 50px;
+}
+
+.cart-empty {
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
