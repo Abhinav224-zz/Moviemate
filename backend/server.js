@@ -21,8 +21,5 @@ server.use(jsonServer.bodyParser);
 // Use the router
 server.use(router);
 
-// Start server
-const PORT = process.env.PORT || 5000;
-server.listen(PORT, () => {
-  console.log(`JSON Server is running on port ${PORT}`);
-});
+// Export for Vercel
+module.exports = server;
